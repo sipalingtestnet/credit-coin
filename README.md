@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>TUTORIAL CREDIT COIN SIPALING TESTNET</h1>
+  <h1>TUTORIAL CREDIT COIN <a href="https://t.me/ssipalingtestnet">SIPALING TESTNET</a></h1>
 </div>
 
 <div align="center">
@@ -87,3 +87,12 @@ Dengan cara mencari nama validator yang sudah kita buat jika ada berarti aman ya
 ## 10. Mengecek Validator
 Untuk mengecek validator sudah aktif atau belum teman teman bisa masuk melalui link berikut 
 - https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.creditcoin.network%2Fws#/staking
+  
+
+
+## 🎁 Donasi untuk Pengembangan
+- Jika Anda merasa bahwa tutorial ini berguna dan ingin memberikan dukungan untuk tutorial selanjutnya, Anda dapat mengirimkan donasi ke alamat berikut:
+`0xBD4607D96707e2Db677DEc672F9EA61Caedf3469`
+ Setiap donasi sangat saya hargai dan akan digunakan untuk membeli rokok dan teh agar saya dapat semangat untuk membuat tutorial selanjutnya . Terima kasih atas dukungan Anda!
+
+
