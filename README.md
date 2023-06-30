@@ -80,9 +80,10 @@ docker exec -it creditcoin-validator creditcoin-cli wizard -a 5000
 ```
 
 ## 9. Mengecek Node 
-Teman teman bisa mengecek node melalui https://telemetry.creditcoin.network/
+Teman teman bisa mengecek node melalui 
+- https://telemetry.creditcoin.network/
 Dengan cara mencari nama validator yang sudah kita buat jika ada berarti aman yah
 
 ## 10. Mengecek Validator
 Untuk mengecek validator sudah aktif atau belum teman teman bisa masuk melalui link berikut 
-https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.creditcoin.network%2Fws#/staking
+- https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.creditcoin.network%2Fws#/staking
