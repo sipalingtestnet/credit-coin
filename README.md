@@ -12,7 +12,10 @@
   <img src="https://bitcoinvn.com/attachments/8c8e7200-588d-11ea-9d3c-107e95d9307a-png.2668/" alt="CREDIT COIN Background" />
 </div>
 
-
+#Lain Lain 
+- Wallet Polkadot Js 
+- Faucet : https://form.typeform.com/to/yGrtGCJO
+- Discord : https://discord.com/invite/creditcoin
 ## 1. Upade Vps
 ```bash
 sudo apt update; sudo apt upgrade 
